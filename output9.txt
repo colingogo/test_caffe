@@ -1,0 +1,6 @@
+layer {
+  name: "loss"
+  type: "softmax_loss"
+}
+bottom: "ip2"
+bottom: "label"

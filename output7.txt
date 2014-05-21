@@ -1,0 +1,6 @@
+layer {
+  name: "relu1"
+  type: "relu"
+}
+bottom: "ip1"
+top: "ip1"
